@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  DataInputManagement.h
 //  Credit Based Management System
 //
 //  Created by Maheep on 04/10/19.
@@ -7,12 +7,8 @@
 //
 
 #include <iostream>
+#include <cstdio>
 #include "Subjects.h"
-#include "DataInputManagement.h"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
 
-}
+

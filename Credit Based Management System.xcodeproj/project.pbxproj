@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		4C76A4212346890500B683A0 /* Credit Based Management System */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Credit Based Management System"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C76A4242346890500B683A0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		4C76A42B23468DE900B683A0 /* Subjects.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Subjects.h; sourceTree = "<group>"; };
+		4C76A42C2346BBA300B683A0 /* DataInputManagement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DataInputManagement.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				4C76A4242346890500B683A0 /* main.cpp */,
+				4C76A42B23468DE900B683A0 /* Subjects.h */,
+				4C76A42C2346BBA300B683A0 /* DataInputManagement.h */,
 			);
 			path = "Credit Based Management System";
 			sourceTree = "<group>";
